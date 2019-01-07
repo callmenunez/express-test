@@ -18,9 +18,12 @@
   },
   "homepage": "https://github.com/callmenunez/express-test#readme",
   "dependencies": {
-    "body-parser": "^1.18.3",
+    "body-parser": "^1.17.1",
     "cookie-parser": "^1.4.3",
     "express": "^4.15.2",
-    "pug": "^2.0.3"
+    "pug": "^2.0.0-rc.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
   }
 }
